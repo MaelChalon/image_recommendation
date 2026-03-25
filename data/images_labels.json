@@ -1,0 +1,3863 @@
+{
+  "img_001.jpg": {
+    "predominant_colors": [
+      [
+        187,
+        167,
+        137
+      ],
+      [
+        68,
+        64,
+        64
+      ],
+      [
+        138,
+        126,
+        111
+      ],
+      [
+        100,
+        95,
+        94
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "carré",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_002.jpg": {
+    "predominant_colors": [
+      [
+        155,
+        149,
+        143
+      ],
+      [
+        36,
+        33,
+        33
+      ],
+      [
+        100,
+        91,
+        86
+      ],
+      [
+        194,
+        198,
+        201
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_003.jpg": {
+    "predominant_colors": [
+      [
+        217,
+        221,
+        227
+      ],
+      [
+        51,
+        46,
+        34
+      ],
+      [
+        167,
+        162,
+        161
+      ],
+      [
+        117,
+        108,
+        103
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_004.jpg": {
+    "predominant_colors": [
+      [
+        100,
+        72,
+        44
+      ],
+      [
+        201,
+        194,
+        185
+      ],
+      [
+        142,
+        129,
+        115
+      ],
+      [
+        37,
+        30,
+        24
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_005.jpg": {
+    "predominant_colors": [
+      [
+        63,
+        55,
+        50
+      ],
+      [
+        223,
+        223,
+        225
+      ],
+      [
+        195,
+        192,
+        190
+      ],
+      [
+        126,
+        112,
+        99
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_006.jpg": {
+    "predominant_colors": [
+      [
+        10,
+        45,
+        14
+      ],
+      [
+        222,
+        221,
+        187
+      ],
+      [
+        125,
+        141,
+        99
+      ],
+      [
+        58,
+        109,
+        55
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "vert",
+      "vert"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_007.jpg": {
+    "predominant_colors": [
+      [
+        64,
+        48,
+        34
+      ],
+      [
+        201,
+        204,
+        210
+      ],
+      [
+        172,
+        168,
+        166
+      ],
+      [
+        140,
+        110,
+        81
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_008.jpg": {
+    "predominant_colors": [
+      [
+        157,
+        137,
+        142
+      ],
+      [
+        188,
+        182,
+        194
+      ],
+      [
+        110,
+        78,
+        77
+      ],
+      [
+        225,
+        220,
+        223
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_009.jpg": {
+    "predominant_colors": [
+      [
+        146,
+        136,
+        126
+      ],
+      [
+        107,
+        95,
+        84
+      ],
+      [
+        67,
+        56,
+        46
+      ],
+      [
+        176,
+        170,
+        163
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_010.jpg": {
+    "predominant_colors": [
+      [
+        69,
+        58,
+        49
+      ],
+      [
+        179,
+        173,
+        166
+      ],
+      [
+        147,
+        138,
+        127
+      ],
+      [
+        107,
+        97,
+        86
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_011.jpg": {
+    "predominant_colors": [
+      [
+        88,
+        89,
+        85
+      ],
+      [
+        37,
+        35,
+        32
+      ],
+      [
+        184,
+        180,
+        174
+      ],
+      [
+        130,
+        128,
+        124
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_013.jpg": {
+    "predominant_colors": [
+      [
+        177,
+        168,
+        162
+      ],
+      [
+        105,
+        145,
+        166
+      ],
+      [
+        69,
+        69,
+        66
+      ],
+      [
+        103,
+        108,
+        109
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_014.jpg": {
+    "predominant_colors": [
+      [
+        121,
+        104,
+        90
+      ],
+      [
+        237,
+        236,
+        236
+      ],
+      [
+        185,
+        180,
+        177
+      ],
+      [
+        36,
+        32,
+        31
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_015.jpg": {
+    "predominant_colors": [
+      [
+        162,
+        148,
+        137
+      ],
+      [
+        68,
+        59,
+        50
+      ],
+      [
+        183,
+        171,
+        160
+      ],
+      [
+        113,
+        102,
+        91
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_016.jpg": {
+    "predominant_colors": [
+      [
+        74,
+        62,
+        51
+      ],
+      [
+        174,
+        160,
+        148
+      ],
+      [
+        123,
+        111,
+        99
+      ],
+      [
+        191,
+        180,
+        170
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "carré",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_017.jpg": {
+    "predominant_colors": [
+      [
+        36,
+        31,
+        40
+      ],
+      [
+        150,
+        164,
+        100
+      ],
+      [
+        72,
+        66,
+        81
+      ],
+      [
+        186,
+        191,
+        146
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "vert",
+      "bleu",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_018.jpg": {
+    "predominant_colors": [
+      [
+        30,
+        36,
+        22
+      ],
+      [
+        148,
+        140,
+        126
+      ],
+      [
+        210,
+        202,
+        189
+      ],
+      [
+        95,
+        97,
+        83
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_019.JPG": {
+    "predominant_colors": [
+      [
+        30,
+        26,
+        25
+      ],
+      [
+        142,
+        139,
+        134
+      ],
+      [
+        176,
+        176,
+        171
+      ],
+      [
+        108,
+        104,
+        101
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "gris",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_020.jpg": {
+    "predominant_colors": [
+      [
+        95,
+        50,
+        38
+      ],
+      [
+        208,
+        207,
+        204
+      ],
+      [
+        18,
+        15,
+        15
+      ],
+      [
+        142,
+        105,
+        78
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_021.jpg": {
+    "predominant_colors": [
+      [
+        72,
+        52,
+        43
+      ],
+      [
+        229,
+        221,
+        209
+      ],
+      [
+        17,
+        16,
+        10
+      ],
+      [
+        168,
+        135,
+        106
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_022.jpg": {
+    "predominant_colors": [
+      [
+        171,
+        160,
+        118
+      ],
+      [
+        55,
+        60,
+        28
+      ],
+      [
+        111,
+        110,
+        68
+      ],
+      [
+        8,
+        13,
+        3
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_023.jpg": {
+    "predominant_colors": [
+      [
+        28,
+        31,
+        9
+      ],
+      [
+        108,
+        109,
+        75
+      ],
+      [
+        164,
+        156,
+        126
+      ],
+      [
+        63,
+        87,
+        31
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "vert",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_024.jpg": {
+    "predominant_colors": [
+      [
+        205,
+        212,
+        194
+      ],
+      [
+        62,
+        68,
+        43
+      ],
+      [
+        156,
+        163,
+        142
+      ],
+      [
+        109,
+        120,
+        87
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "vert",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_025.jpg": {
+    "predominant_colors": [
+      [
+        105,
+        93,
+        74
+      ],
+      [
+        171,
+        173,
+        136
+      ],
+      [
+        206,
+        201,
+        193
+      ],
+      [
+        145,
+        152,
+        101
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "vert",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_026.jpg": {
+    "predominant_colors": [
+      [
+        134,
+        147,
+        104
+      ],
+      [
+        217,
+        214,
+        206
+      ],
+      [
+        29,
+        32,
+        24
+      ],
+      [
+        72,
+        100,
+        55
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "rouge",
+      "noir",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_027.jpg": {
+    "predominant_colors": [
+      [
+        40,
+        39,
+        37
+      ],
+      [
+        147,
+        121,
+        135
+      ],
+      [
+        237,
+        234,
+        211
+      ],
+      [
+        93,
+        96,
+        92
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_028.JPG": {
+    "predominant_colors": [
+      [
+        174,
+        159,
+        104
+      ],
+      [
+        97,
+        111,
+        51
+      ],
+      [
+        204,
+        204,
+        199
+      ],
+      [
+        24,
+        26,
+        21
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "vert",
+      "gris",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_029.jpg": {
+    "predominant_colors": [
+      [
+        138,
+        104,
+        41
+      ],
+      [
+        101,
+        72,
+        20
+      ],
+      [
+        183,
+        158,
+        101
+      ],
+      [
+        164,
+        130,
+        65
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_030.jpg": {
+    "predominant_colors": [
+      [
+        49,
+        41,
+        32
+      ],
+      [
+        187,
+        197,
+        210
+      ],
+      [
+        121,
+        107,
+        90
+      ],
+      [
+        217,
+        223,
+        231
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_031.jpg": {
+    "predominant_colors": [
+      [
+        158,
+        111,
+        73
+      ],
+      [
+        47,
+        39,
+        31
+      ],
+      [
+        215,
+        181,
+        148
+      ],
+      [
+        96,
+        72,
+        51
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_032.jpg": {
+    "predominant_colors": [
+      [
+        186,
+        165,
+        148
+      ],
+      [
+        51,
+        53,
+        56
+      ],
+      [
+        129,
+        120,
+        100
+      ],
+      [
+        231,
+        217,
+        209
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_033.jpg": {
+    "predominant_colors": [
+      [
+        153,
+        121,
+        72
+      ],
+      [
+        28,
+        27,
+        15
+      ],
+      [
+        211,
+        174,
+        119
+      ],
+      [
+        76,
+        64,
+        39
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_034.jpg": {
+    "predominant_colors": [
+      [
+        41,
+        41,
+        40
+      ],
+      [
+        109,
+        106,
+        103
+      ],
+      [
+        167,
+        161,
+        154
+      ],
+      [
+        71,
+        72,
+        70
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_035.jpg": {
+    "predominant_colors": [
+      [
+        78,
+        53,
+        35
+      ],
+      [
+        174,
+        169,
+        162
+      ],
+      [
+        132,
+        87,
+        48
+      ],
+      [
+        158,
+        122,
+        82
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_036.jpg": {
+    "predominant_colors": [
+      [
+        203,
+        199,
+        194
+      ],
+      [
+        35,
+        39,
+        31
+      ],
+      [
+        174,
+        166,
+        157
+      ],
+      [
+        115,
+        112,
+        106
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_037.jpg": {
+    "predominant_colors": [
+      [
+        48,
+        49,
+        58
+      ],
+      [
+        189,
+        186,
+        180
+      ],
+      [
+        97,
+        97,
+        101
+      ],
+      [
+        155,
+        151,
+        145
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "carré",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_038.jpg": {
+    "predominant_colors": [
+      [
+        157,
+        125,
+        96
+      ],
+      [
+        173,
+        159,
+        151
+      ],
+      [
+        52,
+        32,
+        15
+      ],
+      [
+        114,
+        87,
+        67
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_039.jpg": {
+    "predominant_colors": [
+      [
+        68,
+        69,
+        44
+      ],
+      [
+        177,
+        163,
+        151
+      ],
+      [
+        125,
+        109,
+        96
+      ],
+      [
+        35,
+        42,
+        13
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_040.jpg": {
+    "predominant_colors": [
+      [
+        57,
+        66,
+        68
+      ],
+      [
+        159,
+        125,
+        73
+      ],
+      [
+        53,
+        39,
+        18
+      ],
+      [
+        107,
+        83,
+        45
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_041.jpg": {
+    "predominant_colors": [
+      [
+        211,
+        179,
+        133
+      ],
+      [
+        91,
+        110,
+        38
+      ],
+      [
+        152,
+        120,
+        70
+      ],
+      [
+        51,
+        60,
+        27
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "vert",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_042.jpg": {
+    "predominant_colors": [
+      [
+        111,
+        110,
+        104
+      ],
+      [
+        144,
+        144,
+        143
+      ],
+      [
+        193,
+        193,
+        193
+      ],
+      [
+        50,
+        49,
+        45
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "gris",
+      "gris",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_043.jpg": {
+    "predominant_colors": [
+      [
+        111,
+        111,
+        105
+      ],
+      [
+        199,
+        169,
+        125
+      ],
+      [
+        53,
+        52,
+        50
+      ],
+      [
+        244,
+        244,
+        243
+      ]
+    ],
+    "color_names": [
+      "gris",
+      "rouge",
+      "noir",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_044.jpg": {
+    "predominant_colors": [
+      [
+        89,
+        80,
+        67
+      ],
+      [
+        228,
+        232,
+        235
+      ],
+      [
+        133,
+        126,
+        115
+      ],
+      [
+        173,
+        175,
+        173
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "carré",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_045.jpg": {
+    "predominant_colors": [
+      [
+        67,
+        94,
+        137
+      ],
+      [
+        196,
+        195,
+        192
+      ],
+      [
+        134,
+        141,
+        152
+      ],
+      [
+        83,
+        68,
+        52
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_046.jpg": {
+    "predominant_colors": [
+      [
+        147,
+        114,
+        49
+      ],
+      [
+        168,
+        197,
+        232
+      ],
+      [
+        56,
+        48,
+        33
+      ],
+      [
+        76,
+        124,
+        184
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_047.jpg": {
+    "predominant_colors": [
+      [
+        211,
+        214,
+        212
+      ],
+      [
+        23,
+        22,
+        20
+      ],
+      [
+        146,
+        141,
+        137
+      ],
+      [
+        107,
+        63,
+        66
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_048.jpg": {
+    "predominant_colors": [
+      [
+        223,
+        188,
+        142
+      ],
+      [
+        31,
+        25,
+        15
+      ],
+      [
+        110,
+        81,
+        52
+      ],
+      [
+        167,
+        125,
+        82
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_049.jpg": {
+    "predominant_colors": [
+      [
+        148,
+        139,
+        133
+      ],
+      [
+        102,
+        93,
+        92
+      ],
+      [
+        203,
+        193,
+        182
+      ],
+      [
+        182,
+        172,
+        162
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_050.jpg": {
+    "predominant_colors": [
+      [
+        132,
+        135,
+        68
+      ],
+      [
+        56,
+        54,
+        36
+      ],
+      [
+        166,
+        175,
+        99
+      ],
+      [
+        91,
+        96,
+        51
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "vert",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_051.jpg": {
+    "predominant_colors": [
+      [
+        203,
+        193,
+        173
+      ],
+      [
+        59,
+        57,
+        56
+      ],
+      [
+        117,
+        113,
+        104
+      ],
+      [
+        159,
+        157,
+        149
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_052.jpg": {
+    "predominant_colors": [
+      [
+        231,
+        231,
+        233
+      ],
+      [
+        126,
+        105,
+        75
+      ],
+      [
+        54,
+        45,
+        39
+      ],
+      [
+        176,
+        149,
+        112
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_053.jpg": {
+    "predominant_colors": [
+      [
+        155,
+        133,
+        117
+      ],
+      [
+        38,
+        24,
+        16
+      ],
+      [
+        109,
+        77,
+        60
+      ],
+      [
+        196,
+        181,
+        172
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_054.jpg": {
+    "predominant_colors": [
+      [
+        173,
+        173,
+        156
+      ],
+      [
+        114,
+        88,
+        63
+      ],
+      [
+        224,
+        231,
+        224
+      ],
+      [
+        192,
+        206,
+        75
+      ]
+    ],
+    "color_names": [
+      "gris",
+      "rouge",
+      "vert",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_055.jpg": {
+    "predominant_colors": [
+      [
+        166,
+        161,
+        151
+      ],
+      [
+        24,
+        26,
+        28
+      ],
+      [
+        110,
+        105,
+        95
+      ],
+      [
+        201,
+        201,
+        196
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_056.png": {
+    "predominant_colors": [
+      [
+        203,
+        206,
+        199
+      ],
+      [
+        31,
+        30,
+        25
+      ],
+      [
+        107,
+        99,
+        71
+      ],
+      [
+        169,
+        164,
+        123
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_057.jpg": {
+    "predominant_colors": [
+      [
+        44,
+        42,
+        48
+      ],
+      [
+        165,
+        149,
+        141
+      ],
+      [
+        214,
+        220,
+        225
+      ],
+      [
+        108,
+        92,
+        89
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_058.jpg": {
+    "predominant_colors": [
+      [
+        103,
+        96,
+        92
+      ],
+      [
+        110,
+        130,
+        142
+      ],
+      [
+        171,
+        174,
+        176
+      ],
+      [
+        44,
+        42,
+        42
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "bleu",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_059.jpg": {
+    "predominant_colors": [
+      [
+        93,
+        95,
+        76
+      ],
+      [
+        215,
+        212,
+        205
+      ],
+      [
+        37,
+        35,
+        33
+      ],
+      [
+        143,
+        141,
+        116
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_061.jpg": {
+    "predominant_colors": [
+      [
+        100,
+        103,
+        106
+      ],
+      [
+        137,
+        138,
+        139
+      ],
+      [
+        72,
+        72,
+        74
+      ],
+      [
+        191,
+        105,
+        74
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "bleu",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_062.jpg": {
+    "predominant_colors": [
+      [
+        172,
+        136,
+        110
+      ],
+      [
+        71,
+        57,
+        50
+      ],
+      [
+        198,
+        166,
+        135
+      ],
+      [
+        132,
+        101,
+        77
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_063.jpg": {
+    "predominant_colors": [
+      [
+        198,
+        198,
+        200
+      ],
+      [
+        98,
+        77,
+        66
+      ],
+      [
+        231,
+        234,
+        241
+      ],
+      [
+        161,
+        144,
+        124
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_064.jpg": {
+    "predominant_colors": [
+      [
+        94,
+        74,
+        63
+      ],
+      [
+        228,
+        231,
+        238
+      ],
+      [
+        157,
+        138,
+        117
+      ],
+      [
+        192,
+        188,
+        183
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_065.jpg": {
+    "predominant_colors": [
+      [
+        44,
+        33,
+        25
+      ],
+      [
+        163,
+        161,
+        162
+      ],
+      [
+        102,
+        91,
+        70
+      ],
+      [
+        210,
+        202,
+        190
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_066.jpg": {
+    "predominant_colors": [
+      [
+        136,
+        98,
+        69
+      ],
+      [
+        157,
+        187,
+        223
+      ],
+      [
+        229,
+        165,
+        108
+      ],
+      [
+        61,
+        48,
+        41
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_067.jpg": {
+    "predominant_colors": [
+      [
+        92,
+        88,
+        72
+      ],
+      [
+        214,
+        201,
+        177
+      ],
+      [
+        30,
+        30,
+        27
+      ],
+      [
+        155,
+        143,
+        116
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_068.jpg": {
+    "predominant_colors": [
+      [
+        93,
+        78,
+        68
+      ],
+      [
+        165,
+        122,
+        97
+      ],
+      [
+        47,
+        35,
+        34
+      ],
+      [
+        211,
+        155,
+        117
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_069.jpg": {
+    "predominant_colors": [
+      [
+        130,
+        131,
+        130
+      ],
+      [
+        48,
+        47,
+        53
+      ],
+      [
+        178,
+        187,
+        192
+      ],
+      [
+        99,
+        85,
+        85
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "noir",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_070.jpg": {
+    "predominant_colors": [
+      [
+        51,
+        57,
+        47
+      ],
+      [
+        102,
+        100,
+        53
+      ],
+      [
+        131,
+        127,
+        88
+      ],
+      [
+        200,
+        191,
+        181
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_071.jpg": {
+    "predominant_colors": [
+      [
+        119,
+        91,
+        69
+      ],
+      [
+        171,
+        145,
+        119
+      ],
+      [
+        44,
+        25,
+        30
+      ],
+      [
+        223,
+        82,
+        4
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_072.jpg": {
+    "predominant_colors": [
+      [
+        142,
+        108,
+        97
+      ],
+      [
+        148,
+        172,
+        219
+      ],
+      [
+        74,
+        79,
+        47
+      ],
+      [
+        189,
+        202,
+        228
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_074.jpg": {
+    "predominant_colors": [
+      [
+        184,
+        184,
+        179
+      ],
+      [
+        34,
+        32,
+        30
+      ],
+      [
+        109,
+        93,
+        78
+      ],
+      [
+        153,
+        153,
+        149
+      ]
+    ],
+    "color_names": [
+      "gris",
+      "noir",
+      "rouge",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_075.jpg": {
+    "predominant_colors": [
+      [
+        139,
+        132,
+        134
+      ],
+      [
+        38,
+        36,
+        41
+      ],
+      [
+        185,
+        187,
+        190
+      ],
+      [
+        97,
+        90,
+        89
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_076.jpg": {
+    "predominant_colors": [
+      [
+        96,
+        125,
+        50
+      ],
+      [
+        240,
+        238,
+        237
+      ],
+      [
+        38,
+        45,
+        47
+      ],
+      [
+        153,
+        148,
+        112
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "vignette",
+    "tags": []
+  },
+  "img_077.jpg": {
+    "predominant_colors": [
+      [
+        66,
+        64,
+        64
+      ],
+      [
+        152,
+        159,
+        171
+      ],
+      [
+        192,
+        194,
+        198
+      ],
+      [
+        103,
+        110,
+        118
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "bleu",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_078.jpg": {
+    "predominant_colors": [
+      [
+        167,
+        166,
+        167
+      ],
+      [
+        213,
+        214,
+        214
+      ],
+      [
+        129,
+        122,
+        111
+      ],
+      [
+        72,
+        65,
+        55
+      ]
+    ],
+    "color_names": [
+      "gris",
+      "gris",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_079.jpg": {
+    "predominant_colors": [
+      [
+        54,
+        59,
+        58
+      ],
+      [
+        71,
+        137,
+        62
+      ],
+      [
+        203,
+        193,
+        189
+      ],
+      [
+        121,
+        135,
+        110
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "vert",
+      "rouge",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_080.jpg": {
+    "predominant_colors": [
+      [
+        151,
+        192,
+        229
+      ],
+      [
+        77,
+        67,
+        57
+      ],
+      [
+        182,
+        157,
+        125
+      ],
+      [
+        75,
+        112,
+        152
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_081.png": {
+    "predominant_colors": [
+      [
+        144,
+        137,
+        119
+      ],
+      [
+        236,
+        216,
+        184
+      ],
+      [
+        189,
+        174,
+        149
+      ],
+      [
+        73,
+        77,
+        72
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_082.jpg": {
+    "predominant_colors": [
+      [
+        187,
+        185,
+        181
+      ],
+      [
+        54,
+        44,
+        35
+      ],
+      [
+        223,
+        219,
+        211
+      ],
+      [
+        102,
+        110,
+        123
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_083.jpg": {
+    "predominant_colors": [
+      [
+        71,
+        56,
+        23
+      ],
+      [
+        201,
+        155,
+        100
+      ],
+      [
+        155,
+        196,
+        228
+      ],
+      [
+        112,
+        91,
+        59
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_084.jpg": {
+    "predominant_colors": [
+      [
+        123,
+        108,
+        62
+      ],
+      [
+        201,
+        177,
+        132
+      ],
+      [
+        78,
+        69,
+        41
+      ],
+      [
+        158,
+        141,
+        96
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_085.jpg": {
+    "predominant_colors": [
+      [
+        76,
+        92,
+        108
+      ],
+      [
+        40,
+        41,
+        38
+      ],
+      [
+        152,
+        160,
+        168
+      ],
+      [
+        133,
+        104,
+        47
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_086.jpg": {
+    "predominant_colors": [
+      [
+        26,
+        28,
+        37
+      ],
+      [
+        172,
+        154,
+        113
+      ],
+      [
+        72,
+        83,
+        111
+      ],
+      [
+        106,
+        93,
+        69
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_087.jpg": {
+    "predominant_colors": [
+      [
+        187,
+        180,
+        179
+      ],
+      [
+        37,
+        41,
+        55
+      ],
+      [
+        127,
+        150,
+        185
+      ],
+      [
+        88,
+        92,
+        106
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "bleu",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_088.jpg": {
+    "predominant_colors": [
+      [
+        86,
+        95,
+        42
+      ],
+      [
+        134,
+        163,
+        219
+      ],
+      [
+        193,
+        203,
+        225
+      ],
+      [
+        138,
+        138,
+        101
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "bleu",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_089.jpg": {
+    "predominant_colors": [
+      [
+        41,
+        45,
+        42
+      ],
+      [
+        56,
+        66,
+        70
+      ],
+      [
+        29,
+        28,
+        19
+      ],
+      [
+        78,
+        94,
+        108
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "noir",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_090.JPG": {
+    "predominant_colors": [
+      [
+        71,
+        81,
+        92
+      ],
+      [
+        149,
+        185,
+        244
+      ],
+      [
+        98,
+        119,
+        170
+      ],
+      [
+        51,
+        49,
+        33
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "bleu",
+      "bleu",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_091.jpg": {
+    "predominant_colors": [
+      [
+        154,
+        101,
+        42
+      ],
+      [
+        217,
+        188,
+        161
+      ],
+      [
+        85,
+        51,
+        22
+      ],
+      [
+        184,
+        154,
+        130
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_092.jpg": {
+    "predominant_colors": [
+      [
+        142,
+        165,
+        212
+      ],
+      [
+        218,
+        223,
+        242
+      ],
+      [
+        133,
+        123,
+        68
+      ],
+      [
+        64,
+        70,
+        59
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "bleu",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_093.jpg": {
+    "predominant_colors": [
+      [
+        42,
+        40,
+        24
+      ],
+      [
+        214,
+        218,
+        185
+      ],
+      [
+        122,
+        111,
+        62
+      ],
+      [
+        166,
+        163,
+        132
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "vert",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_094.JPG": {
+    "predominant_colors": [
+      [
+        85,
+        86,
+        38
+      ],
+      [
+        189,
+        194,
+        208
+      ],
+      [
+        107,
+        107,
+        109
+      ],
+      [
+        50,
+        52,
+        37
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "bleu",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_095.jpg": {
+    "predominant_colors": [
+      [
+        233,
+        220,
+        206
+      ],
+      [
+        48,
+        44,
+        49
+      ],
+      [
+        98,
+        96,
+        109
+      ],
+      [
+        169,
+        170,
+        181
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "bleu",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_096.jpg": {
+    "predominant_colors": [
+      [
+        114,
+        146,
+        183
+      ],
+      [
+        155,
+        211,
+        251
+      ],
+      [
+        47,
+        55,
+        32
+      ],
+      [
+        112,
+        129,
+        69
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "bleu",
+      "noir",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_097.jpg": {
+    "predominant_colors": [
+      [
+        123,
+        116,
+        70
+      ],
+      [
+        194,
+        184,
+        182
+      ],
+      [
+        48,
+        51,
+        35
+      ],
+      [
+        234,
+        236,
+        240
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_098.jpg": {
+    "predominant_colors": [
+      [
+        30,
+        30,
+        25
+      ],
+      [
+        152,
+        123,
+        102
+      ],
+      [
+        48,
+        52,
+        51
+      ],
+      [
+        100,
+        97,
+        91
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "rouge",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_099.jpg": {
+    "predominant_colors": [
+      [
+        125,
+        155,
+        166
+      ],
+      [
+        48,
+        45,
+        39
+      ],
+      [
+        178,
+        202,
+        211
+      ],
+      [
+        101,
+        97,
+        79
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_100.jpg": {
+    "predominant_colors": [
+      [
+        41,
+        41,
+        41
+      ],
+      [
+        164,
+        164,
+        164
+      ],
+      [
+        211,
+        211,
+        211
+      ],
+      [
+        114,
+        114,
+        114
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "gris",
+      "gris",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_101.jpg": {
+    "predominant_colors": [
+      [
+        86,
+        90,
+        47
+      ],
+      [
+        28,
+        145,
+        243
+      ],
+      [
+        122,
+        114,
+        105
+      ],
+      [
+        52,
+        57,
+        29
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "rouge",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_102.jpg": {
+    "predominant_colors": [
+      [
+        51,
+        60,
+        56
+      ],
+      [
+        230,
+        232,
+        236
+      ],
+      [
+        119,
+        122,
+        102
+      ],
+      [
+        107,
+        111,
+        53
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "vert",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_103.jpg": {
+    "predominant_colors": [
+      [
+        88,
+        94,
+        85
+      ],
+      [
+        235,
+        238,
+        243
+      ],
+      [
+        48,
+        50,
+        24
+      ],
+      [
+        132,
+        137,
+        141
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "noir",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_104.jpg": {
+    "predominant_colors": [
+      [
+        242,
+        243,
+        246
+      ],
+      [
+        82,
+        84,
+        59
+      ],
+      [
+        137,
+        141,
+        126
+      ],
+      [
+        38,
+        40,
+        17
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "vert",
+      "vert",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_105.jpg": {
+    "predominant_colors": [
+      [
+        249,
+        250,
+        250
+      ],
+      [
+        98,
+        103,
+        48
+      ],
+      [
+        124,
+        128,
+        120
+      ],
+      [
+        49,
+        54,
+        29
+      ]
+    ],
+    "color_names": [
+      "gris",
+      "vert",
+      "vert",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_106.jpg": {
+    "predominant_colors": [
+      [
+        73,
+        87,
+        57
+      ],
+      [
+        21,
+        145,
+        227
+      ],
+      [
+        114,
+        132,
+        81
+      ],
+      [
+        157,
+        209,
+        225
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "vert",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_107.jpg": {
+    "predominant_colors": [
+      [
+        170,
+        176,
+        187
+      ],
+      [
+        41,
+        56,
+        26
+      ],
+      [
+        225,
+        229,
+        237
+      ],
+      [
+        78,
+        94,
+        69
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "bleu",
+      "vert"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_108.jpg": {
+    "predominant_colors": [
+      [
+        141,
+        155,
+        170
+      ],
+      [
+        58,
+        72,
+        89
+      ],
+      [
+        222,
+        228,
+        236
+      ],
+      [
+        37,
+        124,
+        188
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "bleu",
+      "bleu",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_109.jpg": {
+    "predominant_colors": [
+      [
+        175,
+        167,
+        173
+      ],
+      [
+        40,
+        34,
+        34
+      ],
+      [
+        128,
+        121,
+        130
+      ],
+      [
+        88,
+        75,
+        73
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_110.jpg": {
+    "predominant_colors": [
+      [
+        35,
+        41,
+        27
+      ],
+      [
+        138,
+        162,
+        181
+      ],
+      [
+        104,
+        106,
+        74
+      ],
+      [
+        198,
+        179,
+        123
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "bleu",
+      "vert",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_111.jpg": {
+    "predominant_colors": [
+      [
+        180,
+        138,
+        92
+      ],
+      [
+        2,
+        89,
+        158
+      ],
+      [
+        204,
+        176,
+        146
+      ],
+      [
+        36,
+        146,
+        215
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "bleu",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_112.jpg": {
+    "predominant_colors": [
+      [
+        47,
+        60,
+        44
+      ],
+      [
+        166,
+        167,
+        165
+      ],
+      [
+        103,
+        111,
+        90
+      ],
+      [
+        222,
+        222,
+        223
+      ]
+    ],
+    "color_names": [
+      "noir",
+      "vert",
+      "vert",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_113.jpg": {
+    "predominant_colors": [
+      [
+        92,
+        82,
+        86
+      ],
+      [
+        154,
+        150,
+        152
+      ],
+      [
+        125,
+        114,
+        116
+      ],
+      [
+        250,
+        248,
+        246
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "rouge",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": []
+  },
+  "img_114.jpg": {
+    "predominant_colors": [
+      [
+        110,
+        87,
+        63
+      ],
+      [
+        164,
+        140,
+        105
+      ],
+      [
+        205,
+        206,
+        199
+      ],
+      [
+        87,
+        70,
+        54
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "rouge",
+      "vert",
+      "rouge"
+    ],
+    "orientation": "portrait",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_115.jpg": {
+    "predominant_colors": [
+      [
+        129,
+        112,
+        65
+      ],
+      [
+        45,
+        39,
+        26
+      ],
+      [
+        187,
+        172,
+        118
+      ],
+      [
+        244,
+        244,
+        236
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_116.jpg": {
+    "predominant_colors": [
+      [
+        211,
+        224,
+        236
+      ],
+      [
+        116,
+        115,
+        108
+      ],
+      [
+        105,
+        150,
+        195
+      ],
+      [
+        67,
+        71,
+        61
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "rouge",
+      "bleu",
+      "noir"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_117.jpg": {
+    "predominant_colors": [
+      [
+        197,
+        209,
+        221
+      ],
+      [
+        44,
+        44,
+        24
+      ],
+      [
+        74,
+        74,
+        67
+      ],
+      [
+        130,
+        115,
+        85
+      ]
+    ],
+    "color_names": [
+      "bleu",
+      "noir",
+      "noir",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_118.jpg": {
+    "predominant_colors": [
+      [
+        103,
+        98,
+        82
+      ],
+      [
+        50,
+        52,
+        37
+      ],
+      [
+        193,
+        192,
+        191
+      ],
+      [
+        144,
+        147,
+        153
+      ]
+    ],
+    "color_names": [
+      "rouge",
+      "noir",
+      "rouge",
+      "bleu"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_119.jpg": {
+    "predominant_colors": [
+      [
+        87,
+        95,
+        28
+      ],
+      [
+        112,
+        129,
+        141
+      ],
+      [
+        211,
+        215,
+        222
+      ],
+      [
+        158,
+        157,
+        84
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "bleu",
+      "rouge"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  },
+  "img_120.jpg": {
+    "predominant_colors": [
+      [
+        123,
+        126,
+        88
+      ],
+      [
+        191,
+        204,
+        210
+      ],
+      [
+        70,
+        78,
+        53
+      ],
+      [
+        167,
+        167,
+        123
+      ]
+    ],
+    "color_names": [
+      "vert",
+      "bleu",
+      "noir",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "grande",
+    "tags": []
+  }
+}
