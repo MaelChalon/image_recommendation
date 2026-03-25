@@ -72,3 +72,5 @@ models/**/*.onnx
 models/**/*.h5
 models/**/*.keras
 models/**/*.safetensors
+
+images/
