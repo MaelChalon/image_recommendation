@@ -62,6 +62,7 @@ data/**/*.npz
 data/**/*.h5
 data/**/*.hdf5
 data/**/*.zip
+data/
 
 models/**/*.pkl
 models/**/*.joblib
