@@ -82,7 +82,7 @@ Plusieurs visualisations ont été produites pour analyser la collection d’ima
 - La fréquence des couleurs dominantes
 ![alt text]({F1DC3BAD-5EB6-4019-BE23-2405780C49C8}.png)
 - Les couleurs présentes dans les favoris de chaque utilisateur
-![alt text]({6F73D91E-1667-4A76-94EE-3FF9A7FC02FA}.png)
+![alt text](Capture%20d%E2%80%99%C3%A9cran%202026-05-06%20211412.png)
 
 Les recommandations ont été évaluées de manière qualitative. Pour plusieurs utilisateurs, les images proposées partagent visiblement des caractéristiques avec leurs favoris : même type de scène, couleurs proches, orientation et taille similaires. Des tests automatiques vérifient également que la fonction de recommandation renvoie le nombre attendu de résultats et qu’aucune image favorite n’est recommandée à nouveau.
 
